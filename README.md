@@ -102,5 +102,3 @@ I am also exploring new technologies to deliver better solutions for clients.
   - Admin panel for managing submissions  
 
 ---
-
-## 💻 How to Run Projects 

@@ -1,21 +1,21 @@
-![Banner](https://i.ibb.co/6y9ZCkY/github-banner.png)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Web%20Developer&fontSize=40&fontColor=ffffff)
 
 # 👋 Hi, I'm Rafsunjany Khan  
-### 💻 Web Developer | React & Django Enthusiast
+### 💻 Web Developer | JavaScript, Node.js & Django
 
 ---
 
 ## 🚀 About Me
 I am a passionate Web Developer with experience in building modern, responsive web applications.  
-I enjoy working with React and Django to solve real-world problems.  
-Currently focused on improving my full-stack development skills.
+I enjoy working with JavaScript, Node.js, and Django to solve real-world problems.  
+Currently focused on strengthening my backend and full-stack development skills.
 
 ---
 
 ## 🔭 Current Activities
-- 🌱 Exploring **Next.js**
-- 🧑‍💻 Working on a **Tourism Website**
-- 🛠 Building projects using **React & Django**
+- 🌱 Exploring **Node.js**
+- 🧠 Improving **JavaScript (ES6+)**
+- 🧑‍💻 Working on backend-focused web projects
 
 ---
 
@@ -28,7 +28,7 @@ Currently focused on improving my full-stack development skills.
 
 ### 🖥 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,firebase" />
 </p>
 
 ### 🛠 Tools
